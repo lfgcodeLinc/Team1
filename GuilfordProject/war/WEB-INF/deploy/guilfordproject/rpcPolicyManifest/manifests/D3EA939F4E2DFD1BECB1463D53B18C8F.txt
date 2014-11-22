@@ -1,2 +1,0 @@
-serviceClass: com.example.GuilfordProject.client.GreetingService
-path: 1C6656358D5B67BB2D23DEBA9EDE0515.gwt.rpc
