@@ -1,3 +1,7 @@
 com.android.ide.eclipse.adt.fixLegacyEditors=1
+<<<<<<< HEAD
 com.android.ide.eclipse.adt.sdk=C\:\\Users\\Keri\\AppData\\Local\\Android\\android-sdk
+=======
+com.android.ide.eclipse.adt.sdk=C\:\\Users\\Cam\\Documents\\Android SDK\\sdk
+>>>>>>> origin/master
 eclipse.preferences.version=1

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <session version="1.0">
+<<<<<<< HEAD
 <refactoring accessors="true" comment="Delete element from project &apos;GuilfordProject&apos;&#x0D;&#x0A;- Original project: &apos;GuilfordProject&apos;&#x0D;&#x0A;- Original element: &apos;Teachers.java&apos;" description="Delete element" element1="/src&lt;{Teachers.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1416697203175" subPackages="false" version="1.0"/>
+=======
+<refactoring comment="Copy package &apos;com.mbw.server&apos; to &apos;GuilfordProject2/src&apos;&#x0D;&#x0A;- Original project: &apos;GuilfordProject&apos;&#x0D;&#x0A;- Destination element: &apos;GuilfordProject2/src&apos;&#x0D;&#x0A;- Original element: &apos;GuilfordProject/src/com.mbw.server&apos;" description="Copy package" destination="=GuilfordProject2/src" element1="/src&lt;com.mbw.server" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1416697596085" version="1.0"/>
+>>>>>>> origin/master
 </session>

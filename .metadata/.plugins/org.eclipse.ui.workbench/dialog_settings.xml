@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.QuickAccess">
+<<<<<<< HEAD
 		<item value="739" key="dialogHeight"/>
 		<item value="1440" key="dialogWidth"/>
+=======
+		<item value="550" key="dialogHeight"/>
+		<item value="960" key="dialogWidth"/>
+>>>>>>> origin/master
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -14,6 +19,7 @@
 	</section>
 	<section name="NewWizardAction">
 	</section>
+<<<<<<< HEAD
 	<section name="ImportExportAction">
 		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
@@ -23,4 +29,6 @@
 			<item value="com.google.gdt.eclipse.suite.importWizards"/>
 		</list>
 	</section>
+=======
+>>>>>>> origin/master
 </section>
