@@ -1,0 +1,3 @@
+# Module guilfordproject
+# RPC service class, partial path of RPC policy file
+com.example.GuilfordProject.client.GreetingService, 1C6656358D5B67BB2D23DEBA9EDE0515.gwt.rpc

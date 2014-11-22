@@ -7,12 +7,12 @@
 
   <!-- Servlets -->
   <servlet>
-    <servlet-name>greetServlet</servlet-name>
-    <servlet-class>com.example.GuilfordProject.server.GreetingServiceImpl</servlet-class>
+    <servlet-name>mainServlet</servlet-name>
+    <servlet-class>com.mbw.server.Main</servlet-class>
   </servlet>
   
   <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
+    <servlet-name>mainServlet</servlet-name>
     <url-pattern>/guilfordproject/greet</url-pattern>
   </servlet-mapping>
   
