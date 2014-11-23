@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-activeuserprofiles=Keri-School;Team
-eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=Keri
-=======
-activeuserprofiles=Cam-PC;Team
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=origin/master
+activeuserprofiles=Cam-PC;Keri-School;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Cam
-useridperkey=Cam-PC.Local\=Cam;
->>>>>>> origin/master
+useridperkey=Keri-School.Local\=Cam;Cam-PC.Local\=Cam;

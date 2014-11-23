@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-PROBLEMS_FILTERS_MIGRATE=true
-eclipse.preferences.version=1
-platformState=1416660937081
-=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=origin/master
 EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
 PROBLEMS_FILTERS_MIGRATE=true
 eclipse.preferences.version=1
-platformState=1416695585869
->>>>>>> origin/master
+platformState=1416695059665
 quickStart=false
 tipsAndTricks=true

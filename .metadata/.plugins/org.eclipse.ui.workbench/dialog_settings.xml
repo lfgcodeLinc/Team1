@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-<<<<<<< HEAD
 		<item value="739" key="dialogHeight"/>
 		<item value="1440" key="dialogWidth"/>
-=======
-		<item value="550" key="dialogHeight"/>
-		<item value="960" key="dialogWidth"/>
->>>>>>> origin/master
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -17,18 +16,10 @@
 		<list key="textArray">
 		</list>
 	</section>
-	<section name="NewWizardAction">
-	</section>
-<<<<<<< HEAD
 	<section name="ImportExportAction">
 		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
-			<item value="com.android.ide.eclipse.wizards.category"/>
-			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
-			<item value="com.google.gdt.eclipse.suite.importWizards"/>
 		</list>
 	</section>
-=======
->>>>>>> origin/master
 </section>
